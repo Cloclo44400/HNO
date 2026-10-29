@@ -1,0 +1,30 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#table_f2ae41b th { border: 1px solid #8C8C8C;  } 
+#table_f2ae41b td { border: 1px solid #8C8C8C;  } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_713f3ccf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:107px; background:none;  }
+#container_713f3ccf_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:54pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_15f29634 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_15f29634_padding { margin: 10px; display: block;  }
+#container_2405c3c9 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background-color:#CECECE;  }
+#container_2405c3c9_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:center; }
+.textstyle4 { font-size:32pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_25bcdda2 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background-color:#CECECE;  }
+#container_25bcdda2_padding { margin: 10px; display: block;  }
+#container_69df678f { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background-color:#CECECE;  }
+#container_69df678f_padding { margin: 10px; display: block;  }
+#container_31fc9f08 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:45px; background:none;  }
+#container_31fc9f08_padding { margin: 10px; display: block;  }
+#table_f2ae41b { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:50%; height:30px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+@media only screen and (max-width: 600px)
+{
+		#container_2405c3c9 { width:100%;  }
+		#container_25bcdda2 { width:100%;  }
+		#container_69df678f { width:100%;  }
+}
